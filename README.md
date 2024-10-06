@@ -2,11 +2,12 @@
 
 Find out answers to the questions like:
 
-Java Developer's Job at Risk? Learn Kotlin?
-How Kotlin is gaining popularity in Android development.
-Whether Kotlin can replace Java in the long run.
-Java’s evolving features to stay relevant in modern development.
-Key factors like code readability, performance, and community support.
+* Java Developer's Job at Risk? Learn Kotlin?
+* How Kotlin is gaining popularity in Android development.
+* Whether Kotlin can replace Java in the long run.
+* Java’s evolving features to stay relevant in modern development.
+* Key factors like code readability, performance, and community support.
+
 
 Follow my 🔴 YouTube channel "Coding Wala Shree" for more videos on Java, Kotlin and software architecture concepts:
 
@@ -16,13 +17,6 @@ Follow my 🔴 YouTube channel "Coding Wala Shree" for more videos on Java, Kotl
 
 
 #### Video comparing Java vs Kotlin:
-
-Find out answers to the questions like:
-- Java Developer's Job at Risk? Learn Kotlin?
-- How Kotlin is gaining popularity in Android development.
-- Whether Kotlin can replace Java in the long run.
-- Java’s evolving features to stay relevant in modern development.
-- Key factors like code readability, performance, and community support.
 
 <table>
    <tr style="border:none !important;">
