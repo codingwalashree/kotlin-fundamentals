@@ -6,7 +6,7 @@ Follow my 🔴 YouTube channel "Coding Wala Shree" for more videos on Java, Kotl
 
 ### Videos on [Coding Wala Shree](https://www.youtube.com/@CodingwalaShree)
 
-<\br>
+
 #### Video comparing Java vs Kotlin:
 
 Find out answers to the questions like:
@@ -25,7 +25,6 @@ Find out answers to the questions like:
       </td>
     </tr>
 </table>
-
 
 #### Videos on Core Java:
 
@@ -71,6 +70,7 @@ Find out answers to the questions like:
    </tr>
 </table>
 
+
 #### Videos on Lambda Expressions and Functional Interfaces in Java:
 
 <table>
@@ -92,6 +92,7 @@ Find out answers to the questions like:
       </td>
    </tr>
 </table>
+
 
 ### Playlists
 * ▶ [ Java 8 Features ](https://www.youtube.com/playlist?list=PL0NAuwT3sREIpmVKgApk2vauQ4zWAenen)
